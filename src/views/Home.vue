@@ -42,6 +42,8 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  max-width: 100%;
+  flex-wrap: wrap;
 }
 .home-icon {
   display: flex;
