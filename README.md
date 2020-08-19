@@ -1,21 +1,26 @@
-# vue-svg-example
+# Vue SVG Example
 
-## Project setup
+## How to use?
+
+You can install the [vue-svg-loader](https://vue-svg-loader.js.org/) package and use SVG in your project made 
+with Vue.js as in the example.
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+#### Lints and fixes files
 ```
 npm run lint
 ```
